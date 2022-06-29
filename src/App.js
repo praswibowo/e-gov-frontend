@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import Dashboard from "./views/Dashboard";
+import { Routes, Route } from "react-router-dom";
+import KeynoteSpeaker from "./views/KeynoteSpeaker";
+import AuthorGuidelines from "./views/AuthorGuidelines";
+import RegistrationFee from "./views/RegistrationFee";
+import DataManagement from "./views/DataManagement";
+import InfraGovernment from "./views/InfraGovernment";
+import Venue from "./views/Venue";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route path="/" element={<Dashboard />} />
+      <Route path="/keynote-speakers" element={<KeynoteSpeaker />} />
+      <Route path="/author-guidelines" element={<AuthorGuidelines />} />
+      <Route path="/registration-fee" element={<RegistrationFee />} />
+      <Route path="/ies-kcic/data-management" element={<DataManagement />} />
+      <Route path="/ies/kcic/infra-gov" element={<InfraGovernment />} />
+      <Route path="/venue" element={<Venue />} />
+    </Routes>
   );
 }
 
