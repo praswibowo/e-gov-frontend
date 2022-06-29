@@ -1,13 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Dashboard from "./views/Dashboard";
+import Dashboard from "./pages/Dashboard";
 import { Routes, Route } from "react-router-dom";
-import KeynoteSpeaker from "./views/KeynoteSpeaker";
-import AuthorGuidelines from "./views/AuthorGuidelines";
-import RegistrationFee from "./views/RegistrationFee";
-import DataManagement from "./views/DataManagement";
-import InfraGovernment from "./views/InfraGovernment";
-import Venue from "./views/Venue";
+import KeynoteSpeaker from "./pages/KeynoteSpeaker";
+import AuthorGuidelines from "./pages/AuthorGuidelines";
+import RegistrationFee from "./pages/RegistrationFee";
+import DataManagement from "./pages/DataManagement";
+import InfraGovernment from "./pages/InfraGovernment";
+import Venue from "./pages/Venue";
 
 function App() {
   return (
