@@ -1,11 +1,11 @@
 export const About = () => {
   return (
-    <div className="flex mx-12 my-24 items-center" id="section1">
+    <div className="flex items-center pb-24" id="section1">
       <div>
         <header className="font-bold text-5xl">
           E-Government Summit <p className="text-primary">at IES 2022 </p>
         </header>
-        <p className="py-4 w-7/12">
+        <p className="py-4 w-7/12 text-justify">
           E-government or Electronic-Based Government System (SPBE) is a digital
           transformation in the government sector to improve the quality of
           public services and administrative services. The E-government Summit

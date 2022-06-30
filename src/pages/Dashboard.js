@@ -1,14 +1,15 @@
 import React from "react";
-import Navbar from "../component/navbar";
 import { Carousel } from "../component/Carousel";
 import { About } from "../component/About";
+import { Keynote } from "../component/Keynote";
 function Dashboard() {
   return (
     <div>
-      <Navbar />
       <Carousel />
-      <About />
-      <h1>Dashboard</h1>
+      <div className="mx-12 my-24 ">
+        <About />
+        <Keynote />
+      </div>
     </div>
   );
 }

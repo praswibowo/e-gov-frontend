@@ -31,13 +31,12 @@ export const Carousel = () => {
         <div class="carousel-item active relative float-left w-full h-80">
           <img
             src="https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1458&q=80"
-            class="block w-full h-auto"
+            class="block w-full object-cover"
             alt="..."
           />
-          <div class="carousel-caption absolute text-left">
+          <div class="carousel-caption absolute text-left items-center bottom-10">
             <h1 class="font-bold text-8xl">E-Government</h1>
-            <h1 class="font-bold text-8xl">Summit</h1>
-            <h3 class="font-bold text-6xl text-gray-800">at IES 2022</h3>
+            <h1 class="font-bold text-8xl">Summit 2022</h1>
           </div>
         </div>
         <div class="carousel-item relative float-left w-full h-80">
@@ -46,14 +45,19 @@ export const Carousel = () => {
             class="block w-full"
             alt="..."
           />
-          <div class="carousel-caption hidden md:block absolute text-center">
-            <span class="bg-gray-400 bg-transparent-80">International Electronics Symposium (IES) 2022 is one of the best  international conferences organized 
-by Politeknik Elektronika Negeri Surabaya (PENS), Surabaya, Indonesia, and a technical co-sponsored 
-IEEE conference. The 24th IES 2022 provides a good platform for researchers, scientists and the entire 
-engineering community to meet each other and exchange ideas on electronic and computer-related 
-fields, and their applications including research stimulation, the applications of electronic and 
-information technologies, and the discussion to advance for region-wide cooperation in 
-related disciplines.</span>
+          <div class="carousel-caption hidden md:block absolute text-center item-center bottom-12">
+            <p class="bg-gray-700 bg-transparent-80 ">
+              International Electronics Symposium (IES) 2022 is one of the best
+              international conferences organized by Politeknik Elektronika
+              Negeri Surabaya (PENS), Surabaya, Indonesia, and a technical
+              co-sponsored IEEE conference. The 24th IES 2022 provides a good
+              platform for researchers, scientists and the entire engineering
+              community to meet each other and exchange ideas on electronic and
+              computer-related fields, and their applications including research
+              stimulation, the applications of electronic and information
+              technologies, and the discussion to advance for region-wide
+              cooperation in related disciplines.
+            </p>
           </div>
         </div>
         <div class="carousel-item relative float-left w-full h-80">
@@ -62,10 +66,7 @@ related disciplines.</span>
             class="block w-full"
             alt="..."
           />
-          <div class="carousel-caption hidden md:block absolute text-center">
-            <h5 class="text-xl">Third slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
+          <div class="carousel-caption hidden md:block absolute text-center"></div>
         </div>
       </div>
       <button
