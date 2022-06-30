@@ -1,4 +1,4 @@
-export const POI_Information = [
+export const PoiInformation = [
   {
     title: "BOROBUDUR",
     caption:
@@ -45,6 +45,6 @@ export const POI_Information = [
     title: "TUMPAK SEWU WATERFALL",
     caption:
       "The impressive view from the top of the Tumpak Sewu Waterfall, the challenging journey to its base via steep bamboo ladders, and the surrounding scenery make a perfect combo of adventure and sightseeing that will blow you away.",
-    img: "./img/poi-information/tumpaksewu.jpeg",
+    img: "./img/poi-information/tumpak.jpeg",
   },
 ];
