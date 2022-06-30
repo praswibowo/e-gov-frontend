@@ -8,6 +8,7 @@ import DataManagement from "./pages/DataManagement";
 import InfraGovernment from "./pages/InfraGovernment";
 import Venue from "./pages/Venue";
 import Navbar from "./component/navbar";
+import Submissions from "./pages/Submissions";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/" element={<Dashboard />} />
         <Route path="/keynote-speakers" element={<KeynoteSpeaker />} />
         <Route path="/author-guidelines" element={<AuthorGuidelines />} />
+        <Route path="/submissions" element={<Submissions />} />
         <Route path="/registration-fee" element={<RegistrationFee />} />
         <Route path="/ies-kcic/data-management" element={<DataManagement />} />
         <Route path="/ies/kcic/infra-gov" element={<InfraGovernment />} />

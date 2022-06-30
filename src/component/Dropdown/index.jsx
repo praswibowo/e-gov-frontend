@@ -10,7 +10,7 @@ export const Dropdown = () => {
   return (
     <div class="dropdown inline-block relative">
       <button class="inline-flex items-center">
-        <span class="mr-1">Dropdown</span>
+        <span class="mr-1">Poster Session</span>
         <svg
           class="fill-current h-4 w-4"
           xmlns="http://www.w3.org/2000/svg"
@@ -31,7 +31,7 @@ export const Dropdown = () => {
         <li class="">
           <a
             class="bg-white hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-            href="#"
+            href="/submissions"
           >
             Submission
           </a>
