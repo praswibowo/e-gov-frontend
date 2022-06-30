@@ -20,8 +20,8 @@ function App() {
         <Route path="/author-guidelines" element={<AuthorGuidelines />} />
         <Route path="/submissions" element={<Submissions />} />
         <Route path="/registration-fee" element={<RegistrationFee />} />
-        <Route path="/ies-kcic/data-management" element={<DataManagement />} />
-        <Route path="/ies/kcic/infra-gov" element={<InfraGovernment />} />
+        <Route path="/data-management" element={<DataManagement />} />
+        <Route path="/infra-gov" element={<InfraGovernment />} />
         <Route path="/venue" element={<Venue />} />
       </Routes>
     </>

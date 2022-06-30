@@ -3,8 +3,7 @@ import React from "react";
 function Venue() {
   return (
     <div>
-      Venue
-      <p>Work On This</p>
+      <img src="./img/ies-banner.svg" />
     </div>
   );
 }

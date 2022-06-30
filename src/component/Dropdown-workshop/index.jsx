@@ -16,7 +16,7 @@ export const DropdownWorkshop = () => {
         <li>
           <a
             class="rounded-t bg-white hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-            href="/author-guidelines"
+            href="/data-management"
           >
             Data Management
           </a>
@@ -24,7 +24,7 @@ export const DropdownWorkshop = () => {
         <li class="">
           <a
             class="bg-white hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-            href="/submissions"
+            href="/infra-gov"
           >
             Intra-Goverment
           </a>

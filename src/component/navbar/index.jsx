@@ -7,11 +7,10 @@ const Navbar = () => {
       <LogoIES />
       <div className="flex gap-12 text-white font-bold">
         <a href="/">Home</a>
-        <a href="#section1">Keynote Speaker</a>
+        <a href="/keynote-speakers">Keynote Speaker</a>
         <Dropdown />
         <DropdownWorkshop />
-        <a href="#">Workshop</a>
-        <a href="#">Venue</a>
+        <a href="/venue">Venue</a>
       </div>
     </div>
   );
