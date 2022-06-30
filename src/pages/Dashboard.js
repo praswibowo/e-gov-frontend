@@ -2,6 +2,8 @@ import React from "react";
 import { Carousel } from "../component/Carousel";
 import { About } from "../component/About";
 import { Keynote } from "../component/Keynote";
+import { ImportantDates } from "../component/ImportantDates";
+import { Event } from "../component/Events";
 function Dashboard() {
   return (
     <div>
@@ -10,6 +12,8 @@ function Dashboard() {
         <About />
         <Keynote />
       </div>
+      <ImportantDates />
+      <Event />
     </div>
   );
 }

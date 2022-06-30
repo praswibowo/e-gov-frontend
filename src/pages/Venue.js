@@ -5,6 +5,11 @@ import { PoiInformation } from "../component/poi-card/poi-information";
 function Venue() {
   return (
     <>
+      <img
+        src="./img/banner-ies.svg"
+        className="object-fill w-full"
+        alt="banner"
+      />
       <div className="flex flex-col mx-40 my-24">
         <div className="flex items-center">
           <img src="./img/logo-pens.svg" alt="logo-pens" />
