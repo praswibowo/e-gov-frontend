@@ -1,9 +1,9 @@
-import "./styles.css";
-export const Dropdown = () => {
+import "../Dropdown/styles.css";
+export const DropdownWorkshop = () => {
   return (
     <div class="dropdown inline-block relative">
       <button class="inline-flex items-center">
-        <span class="mr-1">Poster Session</span>
+        <span class="mr-1">Workshop</span>
         <svg
           class="fill-current h-4 w-4"
           xmlns="http://www.w3.org/2000/svg"
@@ -18,7 +18,7 @@ export const Dropdown = () => {
             class="rounded-t bg-white hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
             href="/author-guidelines"
           >
-            Author Guideliness
+            Data Management
           </a>
         </li>
         <li class="">
@@ -26,7 +26,7 @@ export const Dropdown = () => {
             class="bg-white hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
             href="/submissions"
           >
-            Submission
+            Intra-Goverment
           </a>
         </li>
       </ul>
