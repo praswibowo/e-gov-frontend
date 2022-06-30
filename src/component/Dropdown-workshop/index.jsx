@@ -26,7 +26,7 @@ export const DropdownWorkshop = () => {
             class="bg-white hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
             href="/infra-gov"
           >
-            Intra-Goverment
+            Intra-Government
           </a>
         </li>
       </ul>
