@@ -3,36 +3,36 @@ export const ImportantDatesData = [
     title: "Poster Session",
     content: [
       {
-        title: "Pengumpulan Poster Session",
-        date: "4 Juli 2022",
+        title: "Deadline of Poster Session Submission",
+        date: "July 4, 2022",
       },
       {
-        title: "Pengumuman Status Diterima",
-        date: "11 Juli 2022",
+        title: "Notification of Acceptance",
+        date: "July 11, 2022",
       },
       {
-        title: "Registrasi dan Pembayaran",
-        date: "11 Juli 2022",
+        title: "Registration & Payment",
+        date: "July 11, 2022",
       },
       {
-        title: "Makalah Final",
-        date: "27 Juli 2022",
+        title: "Final Manuscript",
+        date: "July 27, 2022",
       },
       {
-        title: "Batas Akhir Registrasi",
-        date: "27 Juli 2022",
+        title: "Deadline Registration",
+        date: "July 27, 2022",
       },
       {
-        title: "Pengumuman Peserta",
-        date: "29 Juli 2022",
+        title: "Participant Announcement",
+        date: "July 29, 2022",
       },
       {
         title: "Technical Meeting",
-        date: "1 Agustus 2022",
+        date: "August 1, 2022",
       },
       {
-        title: "Konferensi Utama",
-        date: "9-11 Agustus 2022",
+        title: "Main Conference",
+        date: "August 9-11, 2022",
       },
     ],
   },
@@ -40,20 +40,20 @@ export const ImportantDatesData = [
     title: "Workshop",
     content: [
       {
-        title: "Pembukaan Pendaftaran",
-        date: "27 Juli 2022",
+        title: "Open Registration",
+        date: "July 27, 2022",
       },
       {
-        title: "Penutupan Pendaftaran",
-        date: "3 Agustus 2022",
+        title: "Closing Registration",
+        date: "August 3, 2022",
       },
       {
-        title: "Acara Workshop",
-        date: "10 Agustus 2022",
+        title: "Workshop Events",
+        date: "August 10, 2022",
       },
       {
-        title: "Konferensi Utama",
-        date: "9 - 11 Agustus 2022",
+        title: "Main Conference",
+        date: "August 9-11, 2022",
       },
     ],
   },

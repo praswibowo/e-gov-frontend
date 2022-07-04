@@ -39,7 +39,9 @@ function Submissions() {
               All payment can be done by a bank transfer to our account at
             </p>
             <ul className="list-disc pl-7">
-              <li>Bank Name : Bank Mandiri</li>
+              <li>
+                Bank Name : <bold>BANK MANDIRI</bold>
+              </li>
               <li>
                 Account Name : BPN 031 POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
               </li>
@@ -53,7 +55,16 @@ function Submissions() {
             </ul>
             <p>
               Deadline of Registration & Payment : July 27, 2022 <br /> After
-              registration via bank transfer, please registered on Google Form
+              submission via bank transfer, please send
+            </p>
+            <ul>
+              <ol>- The payment receipt</ol>
+              <ol>- Revised poster session and paper</ol>
+            </ul>
+            <p>
+              send an email to pras@pens.ac.id for confirmation with subject
+              “E-Gov Summit Poster Session Submission” and please registered on
+              Google Form
             </p>
           </div>
         </div>

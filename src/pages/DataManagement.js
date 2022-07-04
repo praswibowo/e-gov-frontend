@@ -16,33 +16,37 @@ function DataManagement() {
         Data Management
       </p>
       <p className="max-w-4xl pt-16 text-justify leading-relaxed">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et
-        vestibulum dui. Nullam mollis diam sit amet pellentesque commodo. Proin
-        pharetra hendrerit dui, eleifend imperdiet ligula facilisis rutrum.
-        Nullam fermentum ligula justo, ac pharetra eros euismod eget. Nunc
-        dictum ipsum erat, nec rutrum est rhoncus in. Morbi aliquet nulla a
-        magna fermentum, non rutrum odio convallis. Vestibulum quis laoreet
-        urna. Curabitur in varius nisl, nec varius felis. Nam iaculis porta dui,
-        sed rhoncus diam tristique eget. Quisque id purus vitae est luctus
-        scelerisque. Morbi mollis tortor vitae egestas fermentum. Etiam eu
-        fringilla lacus, eget ultricies urna. Fusce risus neque, scelerisque id
-        mi vitae, ullamcorper facilisis dui. Cras id felis mi. Maecenas
-        convallis sed quam interdum maximus. Aenean ut convallis magna. Donec
-        ultrices, mi id pulvinar aliquam, tellus nisi ornare metus, quis viverra
-        diam magna ac nulla. Etiam tincidunt, lectus nec semper auctor, odio
-        sapien pharetra augue, vel varius ante turpis sed sem. Proin lectus mi,
-        varius non dignissim non, fermentum maximus enim. Suspendisse at sapien
-        nisi. Curabitur sagittis iaculis scelerisque. Pellentesque mattis
-        iaculis sapien ac vestibulum. Etiam in nisl eu erat ultricies suscipit.
-        Suspendisse consequat augue tellus, at congue orci faucibus non. Nunc
-        vitae pharetra nunc, eget aliquet magna. Aenean aliquet justo a neque
-        rutrum, quis pulvinar justo tempor. Morbi viverra ultrices dolor, vitae
-        semper augue dictum commodo. Phasellus hendrerit dictum purus
-        consectetur vehicula. Class aptent taciti sociosqu ad litora torquent
-        per conubia nostra, per inceptos himenaeos. Fusce a enim fermentum,
-        fermentum elit non, facilisis leo. Nullam nisl urna, elementum eu eros
-        ac, aliquet interdum est. Cras ut scelerisque elit. Vestibulum non
-        mauris eu massa rutrum accumsan et sed lectus.
+        Data management is a data management process that includes all
+        activities, so that it can be used as a source of information /
+        analysis.
+        <br />
+        Data management scope:
+        <ul>
+          <li>
+            • Data architecture management: the process of defining data
+            requirements, guiding integration, controlling data assets and
+            aligning data investments with business strategy.
+          </li>
+          <li>
+            • Master data management is the process of managing master data
+          </li>
+          <li>
+            • Reference data management is the process of managing reference
+            data
+          </li>
+          <li>• Database management is the process of database management</li>
+          <li>
+            • Data quality management is a process that ensures that the data
+            generated and managed in an electronic-based government system is
+            quality data.
+          </li>
+          <li>
+            • Internal policies for Data Management in Central/Local Government
+            Agencies are policies that regulate the entire process of managing
+            data architecture, master data, reference data, databases, data
+            quality and data interoperability.
+          </li>
+        </ul>
       </p>
       <p className="py-4 font-bold text-lg bg-primary text-white px-16 rounded-full my-8">
         Keynote Speaker

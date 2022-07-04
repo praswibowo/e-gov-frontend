@@ -1,8 +1,6 @@
 export const speakers = {
-  name: "Associate Professor Novie Ayub Windarko Ph.D.",
-  institute: "Politeknik Elektronika Negeri Surabaya",
-  title: "Associate Professor of Photovoltaic Power Generation Technology",
-  departement: "Department of Electrical Engineering",
-  nationality: "Indonesia",
+  name: "Dr. Eng. Imam Machdi M.T.,",
+  institute: "Badan Pusat Statistik",
+  title: "Deputy for Methodology and Statistical Information, BPS",
   img: "./img/ayub.png",
 };
