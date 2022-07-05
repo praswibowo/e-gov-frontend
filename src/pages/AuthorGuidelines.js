@@ -35,7 +35,7 @@ function AuthorGuidelines() {
       </div>
       <div className="flex flex-col justify-center border-2 rounded-lg mt-6">
         <p className="bg-primary w-full text-center py-7 font-bold text-white rounded-t-lg text-2xl">
-          Submission Fee
+          Review Poster Session
         </p>
         <p className="px-6 py-6">
           For review of Poster Session you can send an email to{" "}

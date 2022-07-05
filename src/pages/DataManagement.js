@@ -1,6 +1,6 @@
 import React from "react";
 import { ButtonBack } from "../component/ButtonBack";
-import { SpeakerCard } from "../component/SpeakerCard";
+import { SpeakerCardData } from "../component/SpeakerCardData";
 function DataManagement() {
   return (
     <div className="flex flex-col items-center mx-12 my-24 min-h-screen max-w-full">
@@ -51,7 +51,7 @@ function DataManagement() {
       <p className="py-4 font-bold text-lg bg-primary text-white px-16 rounded-full my-8">
         Keynote Speaker
       </p>
-      <SpeakerCard />
+      <SpeakerCardData />
     </div>
   );
 }

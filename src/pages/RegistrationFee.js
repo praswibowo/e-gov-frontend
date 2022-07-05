@@ -34,9 +34,7 @@ function RegistrationFee() {
           </p>
           <div className="px-9 pt-4 font-semibold">
             <p>
-              The submission fee includes roll banner, proceeding book,
-              workshop, conference kits, certificate, lunch, and coffee breaks.
-              All payment can be done by a bank transfer to our account at
+            The registration fee is Rp. 150.000,- includes workshop, conference kits, certificate, lunch, and coffee breaks. All payment can be done by a bank transfer to our account at:
             </p>
             <ul className="list-disc pl-7">
               <li>Bank Name : Bank Mandiri</li>
@@ -52,8 +50,16 @@ function RegistrationFee() {
               </li>
             </ul>
             <p>
-              Deadline of Registration & Payment : July 27, 2022 <br /> After
-              registration via bank transfer, please registered on Google Form
+            Deadline of Registration & Payment : July 27, 2022 <br /> After
+              submission via bank transfer, please scan
+            </p>
+            <ul>
+              <ol>- The payment receipt</ol>
+              <ol>- the names of the people who attended the workshop along with the chosen theme</ol>
+            </ul>
+            <p>
+              send an email to pras@pens.ac.id for confirmation with subject
+              “E-Gov Summit Workshop Registration”
             </p>
           </div>
         </div>

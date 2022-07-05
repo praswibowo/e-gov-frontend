@@ -15,6 +15,15 @@ export const Cards = ({ title, content, link, index }) => {
             Registration
           </a>
         ) : null}
+        {index === 2 ? (
+          <a
+            href={"/submissions"}
+            className="px-2 py-2 bg-yellow-500 rounded-full mt-4 text-white font-bold"
+          >
+            {" "}
+            Submissions
+          </a>
+        ) : null}
         <a
           href={link}
           className="px-2 py-2 bg-primary rounded-full mt-4 text-white font-bold"

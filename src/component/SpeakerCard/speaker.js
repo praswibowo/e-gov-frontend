@@ -3,5 +3,5 @@ export const speakers = {
   institute: "Badan Pusat Statistik",
   title: "Deputy for Methodology and Statistical Information, BPS",
   img_keynote: "./img/mentor.jpg",
-  img: "./img/ayub.png",
+  img: "./img/mentor - circle.png",
 };
