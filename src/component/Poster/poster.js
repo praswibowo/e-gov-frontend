@@ -8,7 +8,7 @@ export const poster = {
           "Send poster in .pdf format",
           "Size paper A4",
           "Maximum file size 10MB",
-          "Writing poster using english",
+          "Writing poster using bahasa or english",
         ],
       },
       {
@@ -39,7 +39,7 @@ export const poster = {
           "Size Banner 60 x 160 cm",
           "Maximum file size 50MB",
           "Don't use a transparent background",
-          "Writing poster using english",
+          "Writing poster using bahasa or english",
         ],
       },
       {
