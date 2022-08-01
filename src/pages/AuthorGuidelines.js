@@ -18,14 +18,14 @@ function AuthorGuidelines() {
       <div className="flex justify-between w-full py-16">
         <ButtonFile
           href="./assets/download/User Guide Poster Session-EGov Summit 2022.pdf"
-          title={"Download User Guide Poster"}
+          title={"Download User Guide"}
         />
         <ButtonFile
           href={"./assets/download/Template Proceeding E-Gov Summit.docx"}
-          title={"Download Template Proceeding"}
+          title={"Download Template Paper Proceeding"}
         />
         <ButtonFile
-          href={"./assets/download/Layout Banner 60160.ppt"}
+          href={"./assets/download/POSTER SESSION (60 x 160).zip"}
           title={"Download Layout Banner"}
         />
       </div>

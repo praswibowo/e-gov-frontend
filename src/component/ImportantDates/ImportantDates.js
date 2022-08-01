@@ -4,31 +4,31 @@ export const ImportantDatesData = [
     content: [
       {
         title: "Deadline of Poster Session Submission",
-        date: "July 4, 2022",
+        date: "August 1, 2022",
       },
       {
         title: "Notification of Acceptance",
-        date: "July 11, 2022",
+        date: "August 3, 2022",
       },
       {
         title: "Registration & Payment",
-        date: "July 11, 2022",
+        date: "August 3, 2022",
       },
       {
         title: "Final Manuscript",
-        date: "July 27, 2022",
+        date: "August 6, 2022",
       },
       {
         title: "Deadline Registration",
-        date: "July 27, 2022",
+        date: "August 6, 2022",
       },
       {
         title: "Participant Announcement",
-        date: "July 29, 2022",
+        date: "August 7, 2022",
       },
       {
         title: "Technical Meeting",
-        date: "August 1, 2022",
+        date: "August 7, 2022",
       },
       {
         title: "Main Conference",
@@ -41,11 +41,11 @@ export const ImportantDatesData = [
     content: [
       {
         title: "Open Registration",
-        date: "July 27, 2022",
+        date: "August 7, 2022",
       },
       {
         title: "Closing Registration",
-        date: "August 3, 2022",
+        date: "August 9, 2022",
       },
       {
         title: "Workshop Events",

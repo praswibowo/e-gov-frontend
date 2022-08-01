@@ -1,7 +1,7 @@
 export const speakers = {
-  name: "Teguh Suprayitno",
+  name: "APJII Jawa Timur",
   institute: "APJII Jawa Timur",
   title: "-",
-  img_keynote: "./img/teguh.jpg",
-  img: "./img/teguh.png",
+  img_keynote: "./img/APJII.jpg",
+  img: "./img/APJII.jpg",
 };

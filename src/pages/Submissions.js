@@ -53,7 +53,7 @@ function Submissions() {
               </li>
             </ul>
             <p>
-              Deadline of Registration & Payment : July 27, 2022 <br /> After
+              Deadline of Registration & Payment : August 3, 2022 <br /> After
               submission via bank transfer, please scan
             </p>
             <ul>

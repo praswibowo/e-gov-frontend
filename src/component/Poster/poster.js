@@ -1,18 +1,18 @@
 export const poster = {
   posterA4: {
-    title: "Poster A4 Session Writing Guide",
+    title: "Paper Proceeding Writing Guide",
     content: [
       {
-        title: "A. Poster Terms",
+        title: "A. Paper Terms",
         list: [
-          "Send poster in .pdf format",
+          "Send paper in .doc format",
           "Size paper A4",
           "Maximum file size 10MB",
-          "Writing poster using bahasa or english",
+          "Writing paper using bahasa or english",
         ],
       },
       {
-        title: "B. Poster Content",
+        title: "B. Paper Content",
         list: [
           "Title",
           "Author and Author Affiliation",
